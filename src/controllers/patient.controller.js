@@ -1,5 +1,4 @@
 const Patient = require("../models/patients.model")
-const ErrorHandler = require("../utils/errorHandler")
 const catchAsyncErrors = require("../middlewares/catchAsyncErrors")
 
 //creating patient
